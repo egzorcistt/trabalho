@@ -6,7 +6,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import cardComponent from './components/Example.vue
+import cardComponent from './components/Example.vue'
 
 export default {
   name: 'App',
